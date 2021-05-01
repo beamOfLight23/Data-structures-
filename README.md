@@ -1,5 +1,5 @@
-## Data-structures
+# Data-structures
 
-# University course 
+## University course 
 
 This is a collection of implementations for several ADTs using various data structures. 
